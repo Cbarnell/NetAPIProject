@@ -1,0 +1,6 @@
+@NetAPIProject_HostAddress = http://localhost:5038
+
+GET {{NetAPIProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
